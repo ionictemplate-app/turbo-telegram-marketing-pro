@@ -1,8 +1,8 @@
 # Turbo Telegram Makreting Pro
 
- #  <a href="[https://codecanyon.net/item/telegram-auto-reply-message/40441095](https://t.me/galaxystudioM)" rel="nofollow">Contact us</a>
+ #  <a href="https://t.me/galaxystudioM" target="_blank">Contact us Telegram</a>
  
- #  <a href="https://codecanyon.net/item/telegram-auto-reply-message/40441095" rel="nofollow">DownLoad</a>
+ #  <a href="https://codecanyon.net/item/telegram-auto-reply-message/40441095" rel="nofollow">DownLoad Here</a>
  
 <p><strong>Turbo Telegram Marketing Pro</strong> is a powerful Telegram marketing tool that allows you to manage multiple 
 Telegram accounts from one dashboard. This tool gives you the power to manage multiple accounts without switching between them.
